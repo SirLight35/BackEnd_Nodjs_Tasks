@@ -1,0 +1,62 @@
+
+h2 {
+    /* background-color: grey; */
+    color: #c84747;
+    font-size:28px;
+    border-radius: 10px;
+}
+.header1 {
+    width: 100%;
+    height: 55px;
+    position: fixed;
+    top: 0;
+    left:0;
+    background-color: rgb(161, 161, 177);
+    opacity: .7;
+}
+.header1 a {
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px 30px;
+}
+.hedt1 {
+    background-color: rgb(4, 41, 41);
+    color: white;
+    margin-top: 70px;
+}
+
+
+.immg{
+    background-image: url('../Images/course-3.jpg'); /* Replace with your image */
+  background-size: cover;
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  /* display: flex; */
+  justify-content: center;  
+  align-items: center;      
+  position: relative;
+  top: 0;
+}
+.mack{
+    /* margin-top: 200px; */
+    background-color: rebeccapurple;
+    width: 100%;
+    height: 30px;
+}
+#form1{
+    /* position: absolute;*/
+     /* margin-top: 50px;  */
+    /* margin-left: 15px; */
+    /* background-color: red; */ 
+}
+
+
+p{
+    font-size: 30px;
+    background-color: red;
+    margin-left: 20px;
+    border-radius: 5px;
+}
